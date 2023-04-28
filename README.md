@@ -1,6 +1,10 @@
 <img align = "right" width = "X" height="Y" src="link">
 
-### Titulo 👋
+### Yo yo! Welcome to my little world. 👋:blush:
+My name is Diogo Henrique and i'm PlanoCartesiano. :triangular_ruler:
+</br>
+Here you will find my creations, my story, my soul.✨
+</br>
 
 ### Badges
 
