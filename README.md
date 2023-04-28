@@ -1,10 +1,15 @@
-<img align = "right" width = "X" height="Y" src="link">
+<img align = "right" width = "400" height = "400" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
-### Yo yo! Welcome to my little world. 👋:blush:
+## Yo yo! Welcome to my little world. 👋:blush:
 My name is Diogo Henrique and i'm PlanoCartesiano. :triangular_ruler:
 </br>
 Here you will find my creations, my story, my soul.✨
 </br>
+### About me: 
+- Hello, I am a dedicated programmer who is currently learning several programming languages, including Python, C#, JavaScript, GML, and PHP. </br>
+I have a strong interest in developing games and websites, and I use tools like Unity, GameMaker, Visual Studio Code, Django and Laravel to make that possible.
+- I want to become a great Computer Scientist :computer: :point_up::nerd_face:
+- I also use Aseprite software to create Sprites for 2D games! :art::space_invader:
 
 ### Badges
 
