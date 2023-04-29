@@ -13,9 +13,6 @@ I have a strong interest in developing games and websites, and I use tools like 
 
 ## Badges
 
-<img src="{https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue}">
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Ailton-F)](https://github.com/Ailton-F)
-
 ### shields.io
 
 <!--
