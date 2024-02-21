@@ -7,9 +7,8 @@ Here you will find my creations, my story, my soul.✨
 </br>
 ### About me: 
 - Hello, I am a dedicated programmer who is currently learning several programming languages, including Python, C#, JavaScript, GML, and PHP. </br>
-I have a strong interest in developing games and websites, and I use tools like Unity, GameMaker, Visual Studio Code, Django and Laravel to make that possible.
+I have a strong interest in developing games and websites, and I use tools like Unity, GameMaker, Visual Studio Code, Django and Laravel to make that possible. :art::space_invader:
 - I want to become a great Computer Scientist :computer: :point_up::nerd_face:
-- I also use Aseprite software to create Sprites for 2D games! :art::space_invader:
 
 ## Knowledge and tools 📚
 
