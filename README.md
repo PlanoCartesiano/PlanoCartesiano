@@ -2,9 +2,7 @@
 
 ## Yo yo! Welcome to my little world. 👋:blush:
 My name is Diogo Henrique and i'm PlanoCartesiano. :triangular_ruler:
-</br>
-Here you will find my creations, my story, my soul.✨
-</br>
+
 ### About me: 
 - Hello, I am a dedicated programmer who is currently learning several programming languages, including Python, C# and GML. </br>
 I have a strong interest in developing games. :art::space_invader:
@@ -19,4 +17,4 @@ I have a strong interest in developing games. :art::space_invader:
 <img align="left" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white">
 </br>
 
-Thank you for visiting my profile. Have a nice day. ✨Ubatuba!✨ 👋:nerd_face:
+Thank you for visiting my profile.
